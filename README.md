@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oussama ELJabbari or [@ojpro](https://ojpro.me) 
+- 👋 Hi, I’m Oussama ELJabbari([@ojpro](https://ojpro.me))
 - 👀 I’m interested in Web and Technologies
 - 🌱 I’m currently learning React, TypeScript and Flutter
 - 💞️ I’m looking to collaborate on any project
