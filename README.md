@@ -9,8 +9,14 @@ Full-Stack Developer
 * ✉️  You can contact me at [hey@ojpro.me](mailto:hey@ojpro.me)
 * 🧠  I'm learning Flutter & Dart
 
-<a href="https://www.github.com/ojpro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ojpro?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" /></a>
+<a href="https://www.github.com/ojpro" target="_blank" rel="noreferrer">
+  
+  <img src="https://komarev.com/ghpvc/?username=ojpro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Count"  align="left" /> 
+  
+ <img
+src="https://img.shields.io/github/followers/ojpro?logo=github&style=for-the-badge&color=22c55e&labelColor=171717" />
+  
+</a>
 
 ### Skills
 
@@ -44,10 +50,15 @@ src="https://img.shields.io/github/followers/ojpro?logo=github&style=for-the-bad
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ojpro" style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojpro&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true&show_icons=true" alt="ojpro's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojpro&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ojpro&show_icons=true&locale=en&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true" alt="ojpro" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ojpro&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ojpro" />
+</p>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojpro&show_icons=true&locale=en&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=171717&hide_border=true" alt="ojpro" />
+</p>
+
 
 <a href="http://www.github.com/ojpro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ojpro&bg_color=171717&color=ffffff&line=22c55e&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
