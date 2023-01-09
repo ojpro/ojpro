@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Casablanca, Morocco
-* 🖥️  See my portfolio at [My Portfolio](http://ojpro.me)
+* 🖥️  See my portfolio at [https://ojpro.me](http://ojpro.me)
 * ✉️  You can contact me at [hey@ojpro.me](mailto:hey@ojpro.me)
 * 🧠  I'm learning Flutter & Dart
 
